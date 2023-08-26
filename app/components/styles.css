@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+/* .custom-background {
+    background-color: rgb(177, 47, 47); /* Change this to your desired background color */
+  
+/* .damm{
+  width : 400px;
+  height: 400px;
+} */
+.carousel-container {
+  overflow-y: hidden;
+}
